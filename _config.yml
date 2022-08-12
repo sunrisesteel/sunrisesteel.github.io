@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "42"
+title                    : "426742.xyz"
 title_separator          : "-"
-subtitle                 : " The answer. " # site tagline that appears below site title in masthead
+subtitle                 : " The answer is 42. " # site tagline that appears below site title in masthead
 name                     : "The book"
-description              : "An amazing website."
+description              : "An amazing read."
 url                      : "426742.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "The Earth"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **amazing** being."
   location         : "Somewhere"
   email            :
   links:
