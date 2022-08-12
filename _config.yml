@@ -107,7 +107,7 @@ author:
   name             : "The Earth"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** being."
-  location         : "Sol + 1.496x10"<sup>8</sup>" km"
+  location         : "Sol + 1.496x10<sup>8</sup> km".html_safe
   email            :
   links:
     - label: "Email"
